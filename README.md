@@ -1,6 +1,8 @@
 # init
 initial documents
 
+Footmedia website: https://www.footmedia.com/
+
 projects:
   - Recruit coders: https://github.com/recruitcoders/init
   - Hostel hunt: https://github.com/hostelhunt/init
