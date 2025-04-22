@@ -6,9 +6,10 @@ projects:
   - Hostel hunt: https://github.com/hostelhunt/init
 
 active projects:
-https://www.recruitcoders.com/
-https://www.indexme.org/
-https://www.cherrybots.com/
+
+- https://www.recruitcoders.com/
+- https://www.indexme.org/
+- https://www.cherrybots.com/
   
   
   
